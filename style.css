@@ -1,0 +1,7 @@
+body {
+    background-image: url('your-background.jpg'); /* Ruta relativa correcta */
+    background-size: cover; /* Hace que la imagen cubra toda la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-attachment: fixed; /* Fija la imagen al fondo */
+    background-repeat: no-repeat; /* Evita que se repita */
+}
